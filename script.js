@@ -65,3 +65,5 @@ search.addEventListener("click", () => {
 
   });
 });
+
+// finish mais reste des images a rajouter
